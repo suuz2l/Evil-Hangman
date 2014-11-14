@@ -14,12 +14,14 @@ View Controller:
 Navigation Controller:
 - Om de twee controllers heen zal een Navigation Controller zitten, hierdoor zal het mogelijk zijn om heen en weer te gaan tusen de schermen.
 
-![My image](https://raw.githubusercontent.com/suuz2l/Evil-Hangman/master/img/image%204.png?token=AJArulxvTTi3ISns3q866-kLFW09PsAkks5Ub1e6wA%3D%3D)
+![My image](https://raw.githubusercontent.com/suuz2l/Evil-Hangman/master/img/image1.png?token=AJArupL5Aj5VutZaRWwsFjvg5VWoEQiqks5Ub5SawA%3D%3D)
 
 View Controller, Settings:
 - UISlider, de settings zullen aangepast kunnen worden met een slider.
 - UILabel, de waarde van de settings zullen weer gegeven worden door een UILabel
 
+
+![My image](https://raw.githubusercontent.com/suuz2l/Evil-Hangman/master/img/image2.png?token=AJAruifV2cziGnAE8t7niALwAlJmJiEjks5Ub5TMwA%3D%3D)
 
 Eventuele design als ik tijd over heb:
 ![My image](https://raw.githubusercontent.com/suuz2l/Evil-Hangman/master/img/image2.png?token=AJArup9ajSko7u44TJGI8N7j0q6da6HEks5Ub0hOwA%3D%3D)
