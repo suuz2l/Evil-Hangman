@@ -4,8 +4,8 @@ Evil-Hangman
 
 Image 1
 
-Main View Controller:
-- Buttons
+View Controller:
+- Text Field,
 - Labels
 
 ![My image](https://raw.githubusercontent.com/suuz2l/Evil-Hangman/master/img/image2.png?token=AJArup9ajSko7u44TJGI8N7j0q6da6HEks5Ub0hOwA%3D%3D)
