@@ -13,7 +13,8 @@ Main View Controller:
 Image 2/3
 
 FlipsideViewController:
-- NSDictionary
+- NSDictionary / NSMutableDictionary
+- initWithContentOfFile
 - Equivalence Classes
 
 ![My image](https://raw.githubusercontent.com/suuz2l/Evil-Hangman/master/img/image3.png?token=AJAruhiM_guIjgHkFkhmojl5_ax2gB06ks5Ub0hswA%3D%3D)
