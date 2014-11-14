@@ -9,6 +9,7 @@ Main View Controller:
 - Labels
 
 ![My image](https://raw.githubusercontent.com/suuz2l/Evil-Hangman/master/img/image2.png?token=AJArup9ajSko7u44TJGI8N7j0q6da6HEks5Ub0hOwA%3D%3D)
+
 Image 2/3
 
 FlipsideViewController:
