@@ -8,13 +8,11 @@ Main View Controller:
 - Buttons
 - Labels
 
-(misschien ook een navigation controller, om terug te gaan uit het spel)
-
 ![My image](https://raw.githubusercontent.com/suuz2l/Evil-Hangman/master/img/image2.png?token=AJArup9ajSko7u44TJGI8N7j0q6da6HEks5Ub0hOwA%3D%3D)
 
 Image 2/3
 
-FlipsideViewController:
+Navigation Controller:
 - NSDictionary / NSMutableDictionary
 - initWithContentOfFile
 - Equivalence Classes
